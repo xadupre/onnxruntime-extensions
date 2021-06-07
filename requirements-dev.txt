@@ -1,3 +1,8 @@
+flatbuffers
 pytest
 transformers
+tensorboard
+tensorboard-data-server
+tensorflow
+tensorflow-estimator
 tensorflow_text
