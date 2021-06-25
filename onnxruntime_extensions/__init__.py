@@ -7,7 +7,7 @@
 The entry point to onnxruntime custom op library
 """
 
-__version__ = "0.3.1"
+__version__ = "0.3.91"
 __author__ = "Microsoft"
 
 
